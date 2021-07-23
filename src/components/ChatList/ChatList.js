@@ -16,6 +16,7 @@ const useStyles = makeStyles((theme) => ({
   },
   inline: {
     display: 'inline',
+    color: '#c7c7c7'
   }
 }));
 
